@@ -1,0 +1,8 @@
+{
+	"C_Cpp.errorSquiggles": "disabled",
+	"files.associations": {
+		"complex": "c",
+		"fdf.h": "c",
+		"get_next_line_bonus.h": "c"
+	}
+}
